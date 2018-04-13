@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "672377818414",
+    "firebase_url": "https://vehicletracker-b2e53.firebaseio.com",
+    "project_id": "vehicletracker-b2e53",
+    "storage_bucket": "vehicletracker-b2e53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672377818414:android:c824387f3eb0abe8",
+        "android_client_info": {
+          "package_name": "com.example.sunkee.vehicletracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672377818414-a61dm43kj6rpsuln58shi8qshl1eu4m7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sunkee.vehicletracker",
+            "certificate_hash": "c847e588e8282f9cd47d379472230471cac1a77a"
+          }
+        },
+        {
+          "client_id": "672377818414-etoapc4tbbsh0p7des0kf1qd5o83j5e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgTN004WtfLvdyRsrSURWPtKOZN9haDAA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672377818414-etoapc4tbbsh0p7des0kf1qd5o83j5e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

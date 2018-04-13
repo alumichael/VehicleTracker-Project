@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Vehicle Tracker</string>
+    <string name="hint_txt">Enter Phone Number</string>
+    <string name="hintname_txt">Enter Your Name</string>
+    <string name="btn_addtxt">Setup Vehicle Details</string>
+    <string name="welcome_txt">Vehicle Tracking System Project </string>
+    <string name="subtxt">Use the button below to perform operations</string>
+    <string name="add_user">Add User</string>
+    <string name="update_vehicle_details">Update Vehicle Details</string>
+    <string name="view_vehicle_details">View Vehicle Details</string>
+
+</resources>
