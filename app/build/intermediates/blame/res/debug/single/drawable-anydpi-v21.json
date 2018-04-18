@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/toluadetuyi/Documents/VehicleTracker-Project/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_input_black_24dp.xml",
+        "source": "/Users/toluadetuyi/Documents/VehicleTracker-Project/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_input_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/toluadetuyi/Documents/VehicleTracker-Project/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_account_box_black_24dp.xml",
+        "source": "/Users/toluadetuyi/Documents/VehicleTracker-Project/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_account_box_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/toluadetuyi/Documents/VehicleTracker-Project/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_phone_black_24dp.xml",
+        "source": "/Users/toluadetuyi/Documents/VehicleTracker-Project/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_phone_black_24dp.xml"
+    }
+]

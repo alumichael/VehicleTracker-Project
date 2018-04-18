@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:gravity="center"
+               android:background="#E0E0E0">
+
+    <EditText android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_gravity="center_horizontal"
+              android:inputType="text"
+              android:id="@+id/nametxt"
+              android:drawableLeft="@drawable/ic_account_box_black_24dp"
+              android:drawablePadding="6dp"
+              android:layout_marginLeft="20dp"
+              android:layout_marginBottom="20dp"
+              android:layout_marginRight="20dp"
+              android:padding="15dp"
+              android:hint="@string/hintname_txt"/>
+    <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center|bottom"
+            android:layout_marginBottom="20dp"
+            android:visibility="gone" />
+
+    <EditText android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:id="@+id/phonetxt"
+              android:layout_gravity="center_horizontal"
+              android:inputType="phone"
+              android:drawableLeft="@drawable/ic_phone_black_24dp"
+              android:drawablePadding="6dp"
+              android:layout_marginLeft="20dp"
+              android:layout_marginRight="20dp"
+              android:padding="15dp"
+              android:hint="@string/hint_txt"/>
+    <Button android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnSave"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:textSize="15dp"
+            android:textAlignment="center"
+            android:textColor="#ffffff"
+            android:text="@string/btn_addtxt"
+            android:background="@color/colorOrange"
+
+    />
+    <!--android:drawableLeft="@drawable/"-->
+
+</LinearLayout>
