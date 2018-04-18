@@ -6,6 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.telephony.SmsMessage;
 import android.util.Log;
+import android.widget.Toast;
 
 import com.example.sunkee.vehicletracker.model.Location;
 import com.example.sunkee.vehicletracker.util.PrefUtil;
@@ -83,6 +84,7 @@ public class SmsListener extends BroadcastReceiver {
         Location location = new Location();
         location.setLatitude(body);
         location.setLongitude(sender);
+        Toast.makeText(context, sender + "sent this message:" + "\n\n" + body, Toast.LENGTH_SHORT).show();
 
         //This will save it to shared preference, you can then retrieve it back from your map view
         PrefUtil.saveLatitude(location.getLatitude(), context);
