@@ -1,0 +1,255 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml:3:11-54
+		INJECTED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml:4:4-82
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] /Users/toluadetuyi/.android/build-cache/1f76b52fe5243de2a559ec61e6c9c95879afd758/output/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/toluadetuyi/.android/build-cache/9f3e6f0e944d4f8f2d00771a5d59ca051d223c25/output/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /Users/toluadetuyi/.android/build-cache/91bac4224f8192671fdee49798c8e4a16f030046/output/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml:4:21-63
+application
+ADDED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml:6:5-23:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/toluadetuyi/.android/build-cache/54f25e638747c7c1ed273c641d7307f04a48f292/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/toluadetuyi/.android/build-cache/c5b264b8e34729f14c24fb58531eba3901855272/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/toluadetuyi/.android/build-cache/852aeada420a604e9afe392e2e4f517b971f4ba2/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/toluadetuyi/.android/build-cache/75d9591202cdb7395214b2b5daf73238fe60c9c6/output/AndroidManifest.xml:9:5-20
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/toluadetuyi/.android/build-cache/870ebd74b413a6288cc99a8ceaadb6c227825cb7/output/AndroidManifest.xml:5:5-19
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.0] /Users/toluadetuyi/.android/build-cache/9c560a680b3c1ab988afee21305e6275cb3ee033/output/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-database-license:12.0.0] /Users/toluadetuyi/.android/build-cache/30362aa21c93ace2be5c6e54f04c26f499d61b1f/output/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-core:12.0.0] /Users/toluadetuyi/.android/build-cache/f82f02b0e398208588d322b7f7d765659b8915c8/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] /Users/toluadetuyi/.android/build-cache/1f76b52fe5243de2a559ec61e6c9c95879afd758/output/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/toluadetuyi/.android/build-cache/9f3e6f0e944d4f8f2d00771a5d59ca051d223c25/output/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /Users/toluadetuyi/.android/build-cache/91bac4224f8192671fdee49798c8e4a16f030046/output/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid-license:12.0.0] /Users/toluadetuyi/.android/build-cache/212c16bd6c39bfbfd904223567f36b4061a34423/output/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-common:12.0.0] /Users/toluadetuyi/.android/build-cache/cc75524fc9de49e04f6d21d5d585b356d0c8819a/output/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common-license:12.0.0] /Users/toluadetuyi/.android/build-cache/502ff0ac299d199f180d0640e15f517a3db02de7/output/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/toluadetuyi/.android/build-cache/6412efe6995eea54f486fdaa8a585fcc66d1f501/output/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/toluadetuyi/.android/build-cache/53cf16a8f7819c5f1a245afe75d1cb19353490a3/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/toluadetuyi/.android/build-cache/fb6a6eb581ad1e3f06c8b627c4d2118b1fe902f5/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/toluadetuyi/.android/build-cache/f2631d2fc26b04822bfd47e2177dd7335b2d0a77/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/toluadetuyi/.android/build-cache/a45fe40ef2efaa98eb0cde615a1538cbbb375ede/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/toluadetuyi/.android/build-cache/dbea27d28ba4f5ce414d0d67e0d249a5e67662f2/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/toluadetuyi/.android/build-cache/b64c3b4f6b92b7c6ee9dad767da1d94fec094d42/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/toluadetuyi/.android/build-cache/ce6aad8d7be6c089370b8c645e56f382940066c5/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/toluadetuyi/.android/build-cache/e9fbc50eef63e945aace8657687b1a877820c28c/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] /Users/toluadetuyi/.android/build-cache/32fd48c1a115065c728071d29b3cf2c48cad8c0b/output/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] /Users/toluadetuyi/.android/build-cache/139053e385c1e574e0e987070763731c0a531dff/output/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.0] /Users/toluadetuyi/.android/build-cache/1033da8463b9da668f79a63c0f00a45cf88a4610/output/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.0] /Users/toluadetuyi/.android/build-cache/b22261ffeaf53b0c8e296ee26bc934b1355ffb0d/output/AndroidManifest.xml:5:5-6:19
+	android:label
+		ADDED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml:9:13-45
+	android:supportsRtl
+		ADDED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml:11:13-39
+	android:roundIcon
+		ADDED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml:10:13-58
+	android:allowBackup
+		ADDED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml:7:13-39
+	android:icon
+		ADDED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml:8:13-47
+	android:theme
+		ADDED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml:12:13-44
+activity#com.example.sunkee.vehicletracker.MainActivity
+ADDED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml:15:17-68
+	android:name
+		ADDED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.example.sunkee.vehicletracker.AddActivity
+ADDED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml:20:9-22:20
+	android:name
+		ADDED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml:20:19-46
+uses-sdk
+INJECTED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/toluadetuyi/.android/build-cache/54f25e638747c7c1ed273c641d7307f04a48f292/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/toluadetuyi/.android/build-cache/c5b264b8e34729f14c24fb58531eba3901855272/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/toluadetuyi/.android/build-cache/852aeada420a604e9afe392e2e4f517b971f4ba2/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/toluadetuyi/.android/build-cache/75d9591202cdb7395214b2b5daf73238fe60c9c6/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/toluadetuyi/.android/build-cache/870ebd74b413a6288cc99a8ceaadb6c227825cb7/output/AndroidManifest.xml:3:5-72
+MERGED from [com.google.firebase:firebase-database:12.0.0] /Users/toluadetuyi/.android/build-cache/e30f28f16096d117710eb28d3412741d756c672c/output/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.0] /Users/toluadetuyi/.android/build-cache/d1c41a852a1a62bf0448f2e42f8b12b746236374/output/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-core:12.0.0] /Users/toluadetuyi/.android/build-cache/f82f02b0e398208588d322b7f7d765659b8915c8/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] /Users/toluadetuyi/.android/build-cache/1f76b52fe5243de2a559ec61e6c9c95879afd758/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/toluadetuyi/.android/build-cache/9f3e6f0e944d4f8f2d00771a5d59ca051d223c25/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /Users/toluadetuyi/.android/build-cache/91bac4224f8192671fdee49798c8e4a16f030046/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.0] /Users/toluadetuyi/.android/build-cache/cc75524fc9de49e04f6d21d5d585b356d0c8819a/output/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/toluadetuyi/.android/build-cache/6412efe6995eea54f486fdaa8a585fcc66d1f501/output/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/toluadetuyi/.android/build-cache/53cf16a8f7819c5f1a245afe75d1cb19353490a3/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/toluadetuyi/.android/build-cache/fb6a6eb581ad1e3f06c8b627c4d2118b1fe902f5/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/toluadetuyi/.android/build-cache/f2631d2fc26b04822bfd47e2177dd7335b2d0a77/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/toluadetuyi/.android/build-cache/a45fe40ef2efaa98eb0cde615a1538cbbb375ede/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/toluadetuyi/.android/build-cache/dbea27d28ba4f5ce414d0d67e0d249a5e67662f2/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/toluadetuyi/.android/build-cache/b64c3b4f6b92b7c6ee9dad767da1d94fec094d42/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /Users/toluadetuyi/.android/build-cache/ce6aad8d7be6c089370b8c645e56f382940066c5/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/toluadetuyi/.android/build-cache/e9fbc50eef63e945aace8657687b1a877820c28c/output/AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/toluadetuyi/.android/build-cache/54f25e638747c7c1ed273c641d7307f04a48f292/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/toluadetuyi/.android/build-cache/54f25e638747c7c1ed273c641d7307f04a48f292/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/toluadetuyi/.android/build-cache/c5b264b8e34729f14c24fb58531eba3901855272/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/toluadetuyi/.android/build-cache/852aeada420a604e9afe392e2e4f517b971f4ba2/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/toluadetuyi/.android/build-cache/f2631d2fc26b04822bfd47e2177dd7335b2d0a77/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/toluadetuyi/.android/build-cache/a45fe40ef2efaa98eb0cde615a1538cbbb375ede/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/toluadetuyi/.android/build-cache/dbea27d28ba4f5ce414d0d67e0d249a5e67662f2/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/toluadetuyi/.android/build-cache/b64c3b4f6b92b7c6ee9dad767da1d94fec094d42/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/toluadetuyi/.android/build-cache/ce6aad8d7be6c089370b8c645e56f382940066c5/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/toluadetuyi/.android/build-cache/54f25e638747c7c1ed273c641d7307f04a48f292/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/toluadetuyi/.android/build-cache/54f25e638747c7c1ed273c641d7307f04a48f292/output/AndroidManifest.xml:26:9-47
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml:2:1-25:12 reason: com.google.android.gms.license has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml:2:1-25:12 reason: com.google.android.gms.license has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/toluadetuyi/Documents/VehicleTracker-Project/app/src/main/AndroidManifest.xml:2:1-25:12 reason: com.google.android.gms.license requested WRITE_EXTERNAL_STORAGE
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/toluadetuyi/.android/build-cache/1f76b52fe5243de2a559ec61e6c9c95879afd758/output/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/toluadetuyi/.android/build-cache/9f3e6f0e944d4f8f2d00771a5d59ca051d223c25/output/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /Users/toluadetuyi/.android/build-cache/91bac4224f8192671fdee49798c8e4a16f030046/output/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/toluadetuyi/.android/build-cache/1f76b52fe5243de2a559ec61e6c9c95879afd758/output/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/toluadetuyi/.android/build-cache/1f76b52fe5243de2a559ec61e6c9c95879afd758/output/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/toluadetuyi/.android/build-cache/9f3e6f0e944d4f8f2d00771a5d59ca051d223c25/output/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /Users/toluadetuyi/.android/build-cache/91bac4224f8192671fdee49798c8e4a16f030046/output/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/toluadetuyi/.android/build-cache/1f76b52fe5243de2a559ec61e6c9c95879afd758/output/AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/toluadetuyi/.android/build-cache/1f76b52fe5243de2a559ec61e6c9c95879afd758/output/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/toluadetuyi/.android/build-cache/9f3e6f0e944d4f8f2d00771a5d59ca051d223c25/output/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/toluadetuyi/.android/build-cache/1f76b52fe5243de2a559ec61e6c9c95879afd758/output/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/toluadetuyi/.android/build-cache/1f76b52fe5243de2a559ec61e6c9c95879afd758/output/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/toluadetuyi/.android/build-cache/1f76b52fe5243de2a559ec61e6c9c95879afd758/output/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/toluadetuyi/.android/build-cache/1f76b52fe5243de2a559ec61e6c9c95879afd758/output/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/toluadetuyi/.android/build-cache/1f76b52fe5243de2a559ec61e6c9c95879afd758/output/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/toluadetuyi/.android/build-cache/1f76b52fe5243de2a559ec61e6c9c95879afd758/output/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/toluadetuyi/.android/build-cache/1f76b52fe5243de2a559ec61e6c9c95879afd758/output/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/toluadetuyi/.android/build-cache/1f76b52fe5243de2a559ec61e6c9c95879afd758/output/AndroidManifest.xml:34:13-100
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/toluadetuyi/.android/build-cache/1f76b52fe5243de2a559ec61e6c9c95879afd758/output/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/toluadetuyi/.android/build-cache/1f76b52fe5243de2a559ec61e6c9c95879afd758/output/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/toluadetuyi/.android/build-cache/1f76b52fe5243de2a559ec61e6c9c95879afd758/output/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/toluadetuyi/.android/build-cache/1f76b52fe5243de2a559ec61e6c9c95879afd758/output/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/toluadetuyi/.android/build-cache/9f3e6f0e944d4f8f2d00771a5d59ca051d223c25/output/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/toluadetuyi/.android/build-cache/1f76b52fe5243de2a559ec61e6c9c95879afd758/output/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/toluadetuyi/.android/build-cache/1f76b52fe5243de2a559ec61e6c9c95879afd758/output/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/toluadetuyi/.android/build-cache/1f76b52fe5243de2a559ec61e6c9c95879afd758/output/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/toluadetuyi/.android/build-cache/1f76b52fe5243de2a559ec61e6c9c95879afd758/output/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/toluadetuyi/.android/build-cache/1f76b52fe5243de2a559ec61e6c9c95879afd758/output/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/toluadetuyi/.android/build-cache/1f76b52fe5243de2a559ec61e6c9c95879afd758/output/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/toluadetuyi/.android/build-cache/1f76b52fe5243de2a559ec61e6c9c95879afd758/output/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/toluadetuyi/.android/build-cache/1f76b52fe5243de2a559ec61e6c9c95879afd758/output/AndroidManifest.xml:48:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/toluadetuyi/.android/build-cache/91bac4224f8192671fdee49798c8e4a16f030046/output/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/toluadetuyi/.android/build-cache/91bac4224f8192671fdee49798c8e4a16f030046/output/AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/toluadetuyi/.android/build-cache/91bac4224f8192671fdee49798c8e4a16f030046/output/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/toluadetuyi/.android/build-cache/91bac4224f8192671fdee49798c8e4a16f030046/output/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/toluadetuyi/.android/build-cache/91bac4224f8192671fdee49798c8e4a16f030046/output/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/toluadetuyi/.android/build-cache/91bac4224f8192671fdee49798c8e4a16f030046/output/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/toluadetuyi/.android/build-cache/91bac4224f8192671fdee49798c8e4a16f030046/output/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/toluadetuyi/.android/build-cache/91bac4224f8192671fdee49798c8e4a16f030046/output/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/toluadetuyi/.android/build-cache/91bac4224f8192671fdee49798c8e4a16f030046/output/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/toluadetuyi/.android/build-cache/91bac4224f8192671fdee49798c8e4a16f030046/output/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/toluadetuyi/.android/build-cache/91bac4224f8192671fdee49798c8e4a16f030046/output/AndroidManifest.xml:36:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/toluadetuyi/.android/build-cache/91bac4224f8192671fdee49798c8e4a16f030046/output/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/toluadetuyi/.android/build-cache/91bac4224f8192671fdee49798c8e4a16f030046/output/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/toluadetuyi/.android/build-cache/91bac4224f8192671fdee49798c8e4a16f030046/output/AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/toluadetuyi/.android/build-cache/91bac4224f8192671fdee49798c8e4a16f030046/output/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/toluadetuyi/.android/build-cache/91bac4224f8192671fdee49798c8e4a16f030046/output/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/toluadetuyi/.android/build-cache/91bac4224f8192671fdee49798c8e4a16f030046/output/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/toluadetuyi/.android/build-cache/91bac4224f8192671fdee49798c8e4a16f030046/output/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/toluadetuyi/.android/build-cache/91bac4224f8192671fdee49798c8e4a16f030046/output/AndroidManifest.xml:51:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/toluadetuyi/.android/build-cache/91bac4224f8192671fdee49798c8e4a16f030046/output/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/toluadetuyi/.android/build-cache/91bac4224f8192671fdee49798c8e4a16f030046/output/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/toluadetuyi/.android/build-cache/91bac4224f8192671fdee49798c8e4a16f030046/output/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/toluadetuyi/.android/build-cache/91bac4224f8192671fdee49798c8e4a16f030046/output/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:12.0.0] /Users/toluadetuyi/.android/build-cache/cc75524fc9de49e04f6d21d5d585b356d0c8819a/output/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:12.0.0] /Users/toluadetuyi/.android/build-cache/cc75524fc9de49e04f6d21d5d585b356d0c8819a/output/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:12.0.0] /Users/toluadetuyi/.android/build-cache/cc75524fc9de49e04f6d21d5d585b356d0c8819a/output/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:12.0.0] /Users/toluadetuyi/.android/build-cache/cc75524fc9de49e04f6d21d5d585b356d0c8819a/output/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:12.0.0] /Users/toluadetuyi/.android/build-cache/cc75524fc9de49e04f6d21d5d585b356d0c8819a/output/AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:12.0.0] /Users/toluadetuyi/.android/build-cache/53cf16a8f7819c5f1a245afe75d1cb19353490a3/output/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:12.0.0] /Users/toluadetuyi/.android/build-cache/53cf16a8f7819c5f1a245afe75d1cb19353490a3/output/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:12.0.0] /Users/toluadetuyi/.android/build-cache/53cf16a8f7819c5f1a245afe75d1cb19353490a3/output/AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/toluadetuyi/.android/build-cache/e9fbc50eef63e945aace8657687b1a877820c28c/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/toluadetuyi/.android/build-cache/e9fbc50eef63e945aace8657687b1a877820c28c/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/toluadetuyi/.android/build-cache/e9fbc50eef63e945aace8657687b1a877820c28c/output/AndroidManifest.xml:26:13-58
