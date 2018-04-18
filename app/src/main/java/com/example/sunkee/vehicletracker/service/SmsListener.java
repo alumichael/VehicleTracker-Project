@@ -84,9 +84,10 @@ public class SmsListener extends BroadcastReceiver {
         location.setLatitude(body);
         location.setLongitude(sender);
 
+        //This will save it to shared preference, you can then retrieve it back from your map view
         PrefUtil.saveLatitude(location.getLatitude(), context);
         PrefUtil.saveLongitude(location.getLongitude(), context);
-        
+
     }
 }
 
